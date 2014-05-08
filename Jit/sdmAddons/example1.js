@@ -161,7 +161,7 @@ function init(){
         obj.data = {};
         obj.data.$type = "image";
         obj.data.$dim = 16;
-        obj.data.$url = "../document-pdf.png";
+        obj.data.$url = "/images/icons/fugue/icons/16x16/document-pdf.png";
         dict[key] = obj;
       }
     }
